@@ -12,7 +12,13 @@
         <strong>Technical Camps and School in Kazan:</strong> Participated in hands-on programs that introduced me to Arduino, Raspberry Pi, HTML&CSS fundamentals, and the basics of game development.
       </li>
       <li class="mb-2">
+        <strong>Email Marketing Project:</strong> My side project made with my brother. eversent.io is a web application that provides api for email sending campaigns. The project is built with Vue.js, Node.js, DynamoDB and Postgres.
+      </li>
+      <li class="mb-2">
         <strong>Computer Science and Analysis Courses (George Brown College, Toronto, ON):</strong> Currently enhancing my skills through coursework in computer science, web development, and agile software development.
+      </li>
+      <li class="mb-2">
+        <strong>Influencer Analysis Project:</strong> My side project made with my brother. analysis.youpost.io is a web application that provides insights into Instagram influencers' profiles and their followers. The project is built with Vue.js, Node.js, and MongoDB.
       </li>
     </ul>
   </div>
